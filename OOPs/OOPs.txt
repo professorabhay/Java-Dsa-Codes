@@ -28,6 +28,31 @@ Static keyword -> Use for access anything globally
 Whenever you defined a constructor by own then you have to define default constructor also (if accessing) because java defined constructor autometically (default) until you do not making it implicit.
 
 
+Polymorphism -> Same method with different parameter/ classes/ dataType 
+
+
+
+COLLECTION FRAMEWORK -> 
+
+Collection interface and Map Interface [store multiple values]
+
+
+interface ke object nahi bante hae , class ke bante hae kyoki interface is blueprint 
+
+interface -> class -> objects
+
+wrapper class => which wrap data types like int, char
+to -> Integer, Character 
+
+
+Generics -> Placeholder data type
+
+
+Collection FRAMEWORK -> 
+
+List -> Arraylist, linkedlist, vector, Stack
+
+
 
 
 
