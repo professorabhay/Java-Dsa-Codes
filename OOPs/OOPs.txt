@@ -52,6 +52,21 @@ Collection FRAMEWORK ->
 
 List -> Arraylist, linkedlist, vector, Stack
 
+Sets -> Unordered with unique value -
+    HashSet
+    LinkedHashSet
+    
+SortedSet <- TreeSet
+
+Exception Handling -> Unexpected events occurs and that we have to manage!
+
+use- 
+try block
+catch block
+finally block
+throw
+throws
+
 
 
 
