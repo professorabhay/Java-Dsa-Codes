@@ -29,5 +29,4 @@ public class TwodArray {
         }
         return new int[]{-1,-1};
     }
-
 }

@@ -1,0 +1,42 @@
+OOPs -> s is defined as Structure [Real Life Structure], System [Organizing] !
+
+Hierarchy - 
+
+Object -> Class -> Interface -> [Package] 
+
+Pillars - Encapsulation, Abstraction, Inheritance, Polymorphism
+
+Object -> Physical Entity
+Class  -> Logical Entity
+
+class Myclass {
+	
+}
+
+Encapsulation -> Wrapping data in single unit for securing.
+
+Abstraction -> Hiding Irrelevant information which is not needed to someone. 
+
+Inheritance -> Parent class -> Child  class [which also have properties same as parent]
+
+
+There are some of my socials. Kindly take a look!
+https://twitter.com/professorabhay
+https://github.com/professorabhay/
+https://abhayporwals.hashnode.dev/
+https://www.linkedin.com/in/theabhayporwal/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
