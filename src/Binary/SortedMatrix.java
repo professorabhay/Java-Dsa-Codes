@@ -50,6 +50,7 @@ public class SortedMatrix {
         if(matrix[rStart + 1][cMid] == target){
             return new int[]{rStart + 1, cMid};
         }
+        return null;
         
     }
 }

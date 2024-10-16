@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class countPrimes {
-    public int countPrimes(int n){
+    public static int countPrimes(int n){
         boolean[] primes = new boolean[n+1];
         Arrays.fill(primes, true);
         int count = 0 ;
